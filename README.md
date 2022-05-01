@@ -12,3 +12,7 @@
 2. ***Deliverable 2***: Extract and Transform the Wikipedia Data
 3. ***Deliverable 3***: Extract and Transform the Kaggle Data
 4. ***Deliverable 4***: Create the Movie Database
+
+![name-of-your-image](Resources/movies_query.png)
+
+![name-of-your-image](Resources/ratings_query.png)
